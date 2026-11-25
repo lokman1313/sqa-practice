@@ -1,0 +1,4 @@
+Hello, this is my SQA practice repository.
+
+My name is Lokman Hossen.
+I am learning Software Quality Assurance (SQA).
